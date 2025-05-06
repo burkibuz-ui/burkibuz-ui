@@ -12,7 +12,7 @@
 - Mikroservisler, JWT, REST API, SwiftUI gibi teknolojilerle projeler geliştiriyorum  
 
 ### 🧰 Teknolojiler
-Swift, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
+Swift, Phyton, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
 
 ### 🎵 Hobilerim
 Klarnet çalmak, spor yapmak, büyük ırk köpeklerle ilgilenmek, taktiksel oyunlar oynamak, tarih ve psikoloji okumak
@@ -29,7 +29,7 @@ Klarnet çalmak, spor yapmak, büyük ırk köpeklerle ilgilenmek, taktiksel oyu
 - Experienced with microservices, JWT, REST APIs, and SwiftUI  
 
 ### 🧰 Tech Stack
-Swift, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
+Swift, Phyton, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
 
 ### 🎵 Hobbies
 Playing the clarinet, staying active with fitness, spending time with dogs, playing tactical games, and reading about history and psychology
@@ -46,7 +46,7 @@ Playing the clarinet, staying active with fitness, spending time with dogs, play
 - Erfahrung mit Microservices, JWT, REST-APIs und SwiftUI  
 
 ### 🧰 Technologien
-Swift, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
+Swift, Phyton, TypeScript, JavaScript, Node.js, Express.js, REST, JWT, Git, Xcode, MongoDB, Firebase
 
 ### 🎵 Hobbys
 Klarinette spielen, Fitness, mit Hunden Zeit verbringen, taktische Spiele spielen, Geschichte und Psychologie lesen
@@ -57,7 +57,7 @@ Klarinette spielen, Fitness, mit Hunden Zeit verbringen, taktische Spiele spiele
 
 - GitHub: [burkibuz-ui](https://github.com/burkibuz-ui)  
 - E-mail: burakbuzkiran1@gmail.com  
-- LinkedIn: *coming soon*
+
 
 ---
 
